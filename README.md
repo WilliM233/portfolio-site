@@ -46,7 +46,17 @@ Future iterations will introduce interactivity, JavaScript, and full stack featu
 - [ ] Integrate contact form functionality (future)
 - [ ] Rebuild with React and Tailwind (stretch goal)
 
+
 ---
 
-## 📂 File Structure
+## 👨‍💻 Author
 
+**William Melton**  
+Aspiring full stack developer with a passion for building accessible, clean, and modern web experiences.  
+📫 [LinkedIn](https://www.linkedin.com/in/william-melton-2954a6149/) | [GitHub](https://github.com/WilliM233)
+
+---
+
+## 📌 Note
+
+This project is a work in progress and will evolve alongside my technical skills. Feedback is always welcome!
